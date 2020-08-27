@@ -2,18 +2,36 @@
 
 ### About
 
-I'm a student from Ukraine who is passionate about learning new things about web dev. Completely self-taught. Looking for a job.
+I'm a student from Ukraine who is passionate about learning new things about web dev. Completely self-taught.
 
 ### I'm currently learning
 
-- JavaScript
-  - TypeScript
-  - Vue.js
-  - Node.js
-- Database management (SQLite, want to take a look at PostgreSQL and MongoDB is the future)
-- Python
-  - Ren'Py (finding my soul at peace while using it)
-- CSS / SCSS (I hate design tbh)
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/sass.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/typescript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/node-dot-js.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/sqlite.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/quasar.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/vue-dot-js.svg" />
+
+### I'm using
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linuxmint.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/markdown.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/bitwarden.svg" />
+
+### I want to learn in the future
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/postgresql.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/ruby.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/rubyonrails.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/react.svg" />
 
 ### My projects
 
@@ -24,7 +42,7 @@ I'm a student from Ukraine who is passionate about learning new things about web
 
 ### How to reach me
 
-- EMail
-  - yegorgunko@gmail.com
-- Telegram
-  - [@yegorgunko](https://t.me/yegorgunko)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" />](mailto:yegorgunko@gmail.com)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/telegram.svg" />](https://t.me/yegorgunko)
+
+GMail icon didn't work? Here is my address: `yegorgunko@gmail.com`.
