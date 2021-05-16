@@ -1,5 +1,9 @@
 ## Hi, thank you for visiting my profile!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yegorgunko&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=yegorgunko&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### About
 
 I'm a student from Kharkiv, Ukraine who is passionate about learning new things about web dev. Completely self-taught.
