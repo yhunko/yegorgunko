@@ -1,8 +1,7 @@
 ## Hi, thank you for visiting my profile!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yegorgunko&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=yegorgunko&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yegorgunko&show_icons=true&hide=issues&count_private=true&theme=dark&bg_color=0D1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=yegorgunko&layout=compact&langs_count=7&theme=dark&bg_color=0D1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About
 
