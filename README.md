@@ -23,6 +23,7 @@ I'm a student from Kharkiv, Ukraine who is passionate about learning new things 
 
 | Repository | Language | Size |
 | --- | --- | --- |
+| [memory-game](https://github.com/yegorgunko/memory-game) | ![GitHub top language](https://img.shields.io/github/languages/top/yegorgunko/memory-game?style=for-the-badge) | ![GitHub repo size](https://img.shields.io/github/repo-size/yegorgunko/memory-game?style=for-the-badge) |
 | [react-weather](https://github.com/yegorgunko/react-weather) | ![GitHub top language](https://img.shields.io/github/languages/top/yegorgunko/react-weather?style=for-the-badge) | ![GitHub repo size](https://img.shields.io/github/repo-size/yegorgunko/react-weather?style=for-the-badge) |
 | [react-timer](https://github.com/yegorgunko/react-timer) | ![GitHub top language](https://img.shields.io/github/languages/top/yegorgunko/react-timer?style=for-the-badge) | ![GitHub repo size](https://img.shields.io/github/repo-size/yegorgunko/react-timer?style=for-the-badge) |
 | [vuedients](https://github.com/yegorgunko/vuedients) | ![GitHub top language](https://img.shields.io/github/languages/top/yegorgunko/vuedients?style=for-the-badge) | ![GitHub repo size](https://img.shields.io/github/repo-size/yegorgunko/vuedients?style=for-the-badge) |
